@@ -1,3 +1,3 @@
 inverte :: [Int] -> [Int]
-inverte xs =reverse xs
+inverte xs = reverse xs
 
